@@ -124,7 +124,7 @@ search term can be expressed as:
 
 ## Reverse jump
 
-Bad jumps happen. Somethimes we're looking for a directory the isn't the most
+Bad jumps happen. Sometimes we're looking for a directory the isn't the most
 scored one at the moment. Imagine the following jump database:
 
     /Users/genadi/Development/society/website
